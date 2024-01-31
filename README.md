@@ -1,2 +1,3 @@
 # https://brunosprint.github.io/Desafio_de_Projeto/)https://brunosprint.github.io/Desafio_de_Projeto/
-HTML Puro
+
+Criando uma página em HTML, descrevendo tag's orientadas.
